@@ -3,3 +3,4 @@
 0750. 🎨 style: apply consistent indentation
 0780. 📚 docs: add API usage examples
 0726. ✨ feat: enable dark mode toggle
+0824. 🚀 perf: lazy-load components
