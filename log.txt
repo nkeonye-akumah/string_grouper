@@ -13,3 +13,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0214. 📚 docs: improve code comments in utils
 0166. 🚀 perf: cache repeated calculations
+0440. 📚 docs: update README with setup steps
