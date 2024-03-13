@@ -27,3 +27,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0974. ✨ feat: add export to CSV option
 0352. ✨ feat: add export to CSV option
+0360. ✨ feat: add export to CSV option
