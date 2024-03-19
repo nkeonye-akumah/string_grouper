@@ -28,3 +28,4 @@
 0974. ✨ feat: add export to CSV option
 0352. ✨ feat: add export to CSV option
 0360. ✨ feat: add export to CSV option
+0889. 🚀 perf: lazy-load components
