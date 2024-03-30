@@ -32,3 +32,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0704. 🚀 perf: cache repeated calculations
 0388. 🎨 style: reformat files with black
+0706. ✨ feat: support email verification
