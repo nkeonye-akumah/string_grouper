@@ -34,3 +34,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0070. ✨ feat: implement quiz timer feature
 0354. 📚 docs: add API usage examples
+0076. 🎨 style: reformat files with black
