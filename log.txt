@@ -40,3 +40,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0616. 🚀 perf: lazy-load components
 0619. ✨ feat: create admin dashboard
+0390. 🎨 style: standardize quote style
