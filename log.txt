@@ -49,3 +49,4 @@
 0011. ✅ test: add unit test for quiz service
 0922. 📚 docs: write FAQ section
 0035. ✅ test: increase coverage on auth module
+0494. 🎨 style: rename variables for clarity
