@@ -61,3 +61,4 @@
 0392. 🎨 style: remove trailing whitespace
 0284. ✨ feat: implement quiz timer feature
 0126. 🎨 style: rename variables for clarity
+0797. 📚 docs: add API usage examples
