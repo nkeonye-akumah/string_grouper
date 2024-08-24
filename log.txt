@@ -69,3 +69,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0375. 🐛 fix: handle 500 error in quiz API
 0302. ✨ feat: implement quiz timer feature
+0640. ♻️ chore: bump dependencies
