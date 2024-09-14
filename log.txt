@@ -83,3 +83,4 @@
 0362. 📚 docs: add API usage examples
 0348. ✅ test: test user registration edge cases
 0013. ✅ test: increase coverage on auth module
+0865. ♻️ chore: add GitHub actions badge
