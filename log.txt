@@ -74,3 +74,4 @@
 0795. 📚 docs: update README with setup steps
 0898. 🐛 fix: fix broken CSS in mobile view
 0835. 🐛 fix: prevent crash on empty input
+0340. 🚀 perf: optimize database query for quiz results
