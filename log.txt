@@ -90,3 +90,4 @@
 0579. 📚 docs: clarify environment setup
 0548. 📚 docs: write FAQ section
 0450. 🐛 fix: fix broken CSS in mobile view
+0860. 🔧 refactor: organize models into subfolders
