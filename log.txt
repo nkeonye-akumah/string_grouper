@@ -124,3 +124,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0449. ✅ test: add unit test for quiz service
 0643. 🎨 style: apply consistent indentation
+0753. 🔧 refactor: remove redundant code blocks
