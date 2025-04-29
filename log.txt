@@ -135,3 +135,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0276. ✅ test: add integration test for /submit endpoint
 0488. ♻️ chore: add GitHub actions badge
+0715. ✨ feat: create admin dashboard
