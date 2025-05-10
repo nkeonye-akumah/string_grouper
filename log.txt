@@ -137,3 +137,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0512. 🚀 perf: reduce image load time
 0836. 🚀 perf: optimize database query for quiz results
+0109. 🚀 perf: lazy-load components
