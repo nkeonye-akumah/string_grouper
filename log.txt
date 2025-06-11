@@ -146,3 +146,4 @@
 0189. 📚 docs: clarify environment setup
 0567. 📚 docs: add API usage examples
 0714. 📚 docs: improve code comments in utils
+0387. ✨ feat: enable dark mode toggle
