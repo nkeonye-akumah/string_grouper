@@ -154,3 +154,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0300. ✨ feat: add export to CSV option
 0778. 📚 docs: write FAQ section
+0368. 🚀 perf: lazy-load components
