@@ -161,3 +161,4 @@
 0923. ✨ feat: support email verification
 0490. ✨ feat: create admin dashboard
 0115. 🚀 perf: reduce image load time
+0752. ✅ test: add integration test for /submit endpoint
