@@ -171,3 +171,4 @@
 0265. 🎨 style: reformat files with black
 0944. ✨ feat: add user authentication
 0086. 🐛 fix: correct typo in registration form
+0819. 🚀 perf: reduce image load time
