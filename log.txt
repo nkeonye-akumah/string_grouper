@@ -188,3 +188,4 @@
 0789. ✨ feat: create admin dashboard
 0655. 🚀 perf: cache repeated calculations
 0305. ✨ feat: enable dark mode toggle
+0712. 🎨 style: apply consistent indentation
