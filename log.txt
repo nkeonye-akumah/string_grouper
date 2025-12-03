@@ -195,3 +195,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0630. 🚀 perf: lazy-load components
 0207. 🐛 fix: prevent crash on empty input
+0195. 📚 docs: clarify environment setup
