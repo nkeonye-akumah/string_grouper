@@ -55,6 +55,45 @@ Results in:
 the library is able to perform fuzzy matching of 663 000 names in _five and a half minutes_
 on a 2015 consumer CPU using 4 cores. 
 
+## Example: Matching Records Between Two Lists (Master vs New Data)
+
+A common real-world scenario involves matching new records (such as new customer
+registrations, new product feeds, or new vendor data) against an existing master
+dataset to identify potential duplicates or fuzzy matches. `string_grouper`
+supports this by comparing two lists directly.
+
+```python
+import pandas as pd
+from string_grouper import match_strings
+
+# Existing master customer list
+master_customers = pd.Series([
+    "Fresh Mart Superstore",
+    "Green Valley Grocers",
+    "Daily Needs Market",
+    "Quick Stop Convenience"
+])
+
+# New incoming customer records
+new_customers = pd.Series([
+    "Green Valley Grocery",
+    "Daily Needz Market",
+    "Quick-Stop Convenience",
+    "Completely New Store"
+])
+
+# Find fuzzy matches between the master list and new list
+matches = match_strings(
+    master=master_customers,
+    duplicates=new_customers,
+    min_similarity=0.8,
+)
+
+# Inspect the top matches
+print(matches.head())
+
+
+
 ## Simple Match
 
 ```python
